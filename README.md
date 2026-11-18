@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Weslley Buzzello! 🤘
 
-<!--
-**Buzzelito/Buzzelito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Unifatecie**, na modalidade EAD, em transição de carreira para TI.
 
-Here are some ideas to get you started:
+Trago 10 anos de experiência em atendimento e rotinas administrativas. Agora, estou construindo uma nova trajetória na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meu próximo passo
+
+Busco minha **primeira oportunidade em TI**, em uma vaga de entrada ou júnior, na **região de Itajaí/SC** ou em formato **remoto**.
+
+## Vamos conversar?
+
+[Meu LinkedIn](https://www.linkedin.com/in/weslley-buzzello)
